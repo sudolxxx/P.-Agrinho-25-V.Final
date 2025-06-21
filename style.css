@@ -1,4 +1,6 @@
-/* Custom CSS - Equivalente ao Tailwind CSS e estilos personalizados */
+a {
+    text-decoration: none;
+}
 :root {
     --primary: #4CAF50;
     --secondary: #8BC34A;
